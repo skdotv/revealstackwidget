@@ -16,7 +16,10 @@ know whether this package might be useful for them.
 
 ## Features
 
- - Reveal Animated Pages
+    Reveal Animated Pages
+
+
+
 ![reveal_effect](https://user-images.githubusercontent.com/40072637/150992649-498d8f9b-399c-416f-b57d-ed2bd140f452.gif)
 
 
