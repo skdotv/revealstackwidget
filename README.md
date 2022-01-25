@@ -16,7 +16,11 @@ know whether this package might be useful for them.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+ - Reveal Animated Pages
+![simulator_screenshot_5705B710-E76C-4F8A-BEAF-4E16AB379A90](https://user-images.githubusercontent.com/40072637/150992230-26fcf829-9720-4c70-884a-2ddadb3ac608.png)
+![reveal_effect](https://user-images.githubusercontent.com/40072637/150992649-498d8f9b-399c-416f-b57d-ed2bd140f452.gif)
+
+
 
 ## Getting started
 
@@ -29,7 +33,31 @@ TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder. 
 
 ```dart
-const like = 'sample';
+RevealStackWidget(
+  verticalSpacing: 100,
+  children: [
+      Container(
+        width: MediaQuery.of(context).size.width,
+        color: Colors.red,
+        child: Text(
+          "1",
+          textAlign: TextAlign.center,
+          style: TextStyle(color: Colors.white, fontSize: 20),
+        ),
+      ),
+       Container(
+        width: MediaQuery.of(context).size.width,
+        color: Colors.blue,
+        child: Text(
+          "2",
+          textAlign: TextAlign.center,
+          style: TextStyle(color: Colors.white, fontSize: 20),
+        ),
+      ),
+   ],
+  )
+                  )
+
 ```
 
 ## Additional information
