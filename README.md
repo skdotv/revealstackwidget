@@ -17,7 +17,6 @@ know whether this package might be useful for them.
 ## Features
 
  - Reveal Animated Pages
-![simulator_screenshot_5705B710-E76C-4F8A-BEAF-4E16AB379A90](https://user-images.githubusercontent.com/40072637/150992230-26fcf829-9720-4c70-884a-2ddadb3ac608.png)
 ![reveal_effect](https://user-images.githubusercontent.com/40072637/150992649-498d8f9b-399c-416f-b57d-ed2bd140f452.gif)
 
 
